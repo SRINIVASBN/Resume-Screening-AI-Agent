@@ -1,0 +1,13 @@
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+*.sqlite3
+node_modules
+*.DS_Store
+.git
+app/storage/uploads/*
+app/storage/chroma/*
