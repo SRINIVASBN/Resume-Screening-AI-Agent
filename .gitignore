@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+.env
+.venv/
+env/
+venv/
+
+# Streamlit state
+.streamlit/
+
+# Local storage artifacts (keep directories via .gitkeep)
+app/storage/uploads/*
+!app/storage/uploads/.gitkeep
+app/storage/chroma/*
+!app/storage/chroma/.gitkeep
+
+# VS Code / IDE
+.vscode/
+.idea/
+
