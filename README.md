@@ -358,4 +358,3 @@ RNSIT, Bengaluru
 - [GitHub Repository](https://github.com/SRINIVASBN/Resume-Screening-AI-Agent)
 ```
 
----
